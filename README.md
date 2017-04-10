@@ -1,3 +1,3 @@
 ﻿# wzvtcandroidtrainning
 
-a-汪琛淮-王中强
+a-汪琛淮-王忠强
