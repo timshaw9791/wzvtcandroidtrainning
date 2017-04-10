@@ -1,2 +1,1 @@
-# wzvtcandroidtrainning
-X-吕领领-
+X-吕领领-XXXX
