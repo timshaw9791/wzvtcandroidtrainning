@@ -1,2 +1,2 @@
-# wzvtcandroidtrainning
-A-╨б╨ёлн A-╡лубсН
+О╩©# wzvtcandroidtrainning
+h-И┐²Ф╣╥Ф╤⌡ -Х■║Г╚═Е╝┤
