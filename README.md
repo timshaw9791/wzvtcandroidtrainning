@@ -1,2 +1,0 @@
-# wzvtcandroidtrainning
-I-ÀîÑóÑó-ËïÀöÑã
