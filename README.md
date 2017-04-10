@@ -1,2 +1,2 @@
 ﻿# wzvtcandroidtrainning
-你是不是傻？
+H-林庆 徐雷清
