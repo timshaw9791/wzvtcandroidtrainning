@@ -1,5 +1,7 @@
 
-﻿# wzvtcandroidtrainning
+# wzvtcandroidtrainning
+XX-yanglinz-xujiahui
+
 J-费镇-方福勋
 "pantong 24"
 "liwenzhong 17"
@@ -21,4 +23,3 @@ I-孙丽雁-李洋洋
 H-朱慧慧-曹佳逸
 E-吕领领-罗军
 x-郭仪杰-吴家宝
-
