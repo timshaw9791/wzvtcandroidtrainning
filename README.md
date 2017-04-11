@@ -1,5 +1,7 @@
 
-# wzvtcandroidtrainning
+﻿# wzvtcandroidtrainning
+F组——杨阳——张建峰
+
 X 吴非凡
 
 A-黄华-王文彬
