@@ -1,7 +1,6 @@
-
-﻿# wzvtcandroidtrainning
+# wzvtcandroidtrainning
+M-蔡强-陈艳芳 
 J-方福勋-费镇
-
 112222F组 /张建峰/ 杨阳
 M-陈艳芳-蔡强 cyf-cq
 X-吴家宝
