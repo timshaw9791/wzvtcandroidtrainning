@@ -1,4 +1,5 @@
-# wzvtcandroidtrainning
+﻿# wzvtcandroidtrainning
+X-胡晓军-查志华
 M-蔡强-陈艳芳 
 J-方福勋-费镇
 112222F组 /张建峰/ 杨阳
