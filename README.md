@@ -1,5 +1,7 @@
 
-﻿# wzvtcandroidtrainning
+# wzvtcandroidtrainning
+X 吴非凡
+
 A-黄华-王文彬
 
 H-林庆 徐雷清
