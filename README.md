@@ -1,5 +1,7 @@
 
 ﻿# wzvtcandroidtrainning
+X-吴家宝
+
 F组——杨阳——张建峰
 
 X 吴非凡
