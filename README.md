@@ -1,2 +1,2 @@
 ﻿# wzvtcandroidtrainning
-H-徐雷清-林庆 
+G-徐雷清-林庆 
